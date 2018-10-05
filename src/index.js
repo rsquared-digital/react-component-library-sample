@@ -1,5 +1,9 @@
-const x = () => {
-  console.log("hi");
+import React from "react";
+
+const Something = () => {
+  return (
+    <div> Hey </div>
+  )
 }
 
-export default x;
+export default Something;
