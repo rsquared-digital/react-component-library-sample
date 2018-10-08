@@ -1,8 +1,8 @@
 {
   "name": "sample",
   "version": "1.0.0",
-  "description": "",
-  "author": "",
+  "description": "React component library sample",
+  "author": "Roniel Romero",
   "license": "ISC",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",

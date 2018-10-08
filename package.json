@@ -1,14 +1,15 @@
 {
   "name": "react-component-library-sample",
   "version": "1.0.0",
-  "description": "",
+  "description": "React component library sample",
+  "author": "Roniel Romero",
+  "license": "ISC",
   "main": "/dist/common.cjs",
   "module": "/dist/common.js",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "react": "^16.5.2",
     "styled-components": "^3.4.9"
