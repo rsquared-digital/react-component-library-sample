@@ -1,9 +1,7 @@
-import React from "react";
+import Button from "./button";
+import Textbox from "./textbox";
 
-const Something = () => {
-  return (
-    <div> Hey </div>
-  )
+export {
+  Button,
+  Textbox
 }
-
-export default Something;
